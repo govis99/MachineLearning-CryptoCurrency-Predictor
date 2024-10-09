@@ -39,3 +39,9 @@ Volatility: High volatility impacts both upward and downward predictions.
 
 ### Conclusion 
 This project successfully built a machine learning pipeline to predict short-term cryptocurrency price movements. We experimented with various features and models, concluding that XGBoost performed best based on F1 scores. Using SHAP analysis, we identified the most important features driving model predictions.
+
+Copyright (c) [2024] [Govi S]
+
+All rights reserved.
+
+This software and all associated files are provided to you for reference purposes only. No rights to use, modify, distribute, or create derivative works from this code are granted. You may not use this software for any purpose without express written consent from the owner. Unauthorized use, reproduction, or distribution is prohibited.
